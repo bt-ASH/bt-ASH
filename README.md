@@ -30,9 +30,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bt-ASH/network-snake-dark/main/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/bt-ASH/network-snake/main/snake.svg" />
-    <img alt="network-activity-snake" src="https://gist.githubusercontent.com/bt-ASH/network-snake/main/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/bt-ASH/4a16dded8712693bedd4b14312476625/raw/577c9579ad2d25d9b387848832440113089404e2/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gist/bt-ASH/4a16dded8712693bedd4b14312476625/raw/577c9579ad2d25d9b387848832440113089404e2/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gist/bt-ASH/4a16dded8712693bedd4b14312476625/raw/577c9579ad2d25d9b387848832440113089404e2/github-snake.svg" />
   </picture>
 </div>
 
