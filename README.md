@@ -16,7 +16,7 @@
 
 ## 我的项目 / My Projects
 
-<img align='right' src="https://via.placeholder.com/400x200?text=ASH+Projects" width="400">
+<img align='right' src="https://skillicons.dev/icons?i=rust,python,c,linux,docker,git" width="400">
 
 ## 我的社区 / My Community
 
