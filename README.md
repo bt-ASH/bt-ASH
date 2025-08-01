@@ -63,5 +63,5 @@
 </div>
 
 欢迎交流网络技术相关问题！可以通过以下方式联系我：
-📧 Email: network@example.com
+📧 Email: volcancode@proton.me
 🐦 Twitter: @bt_ASH
