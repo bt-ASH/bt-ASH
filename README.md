@@ -8,15 +8,24 @@
 > 你好，我是Ash
 
 - 开发者 | 技术爱好者 | 开源贡献者
+- 超级无敌闪电霹雳雷霆世界第一Memory && 超级无敌霹雳雷霆世界第一CPU技术宅
 - 主要项目: [ASH Library](https://github.com/bt-ASH)
 - 专注于网络工具开发和技术研究
-- Twitter: [@bt_ASH](https://twitter.com/bt_ASH) 
+- Twitter@[bt_ASH](https://twitter.com/bt_ASH) 
+- Vtuber@[Bilibili](https://space.bilibili.com/9909909909909090909090)
 
 > "Simplicity is the ultimate sophistication."
 
 ## 我的项目 / My Projects
 
 <img align='right' src="https://skillicons.dev/icons?i=rust,python,c,linux,docker,git" width="400">
+<details>
+
+<summary>archlinux + Hyprland工具</summary>
+
+ + [【hyprun】代替丑陋的rofi](https://github.com/bt-ASH/hyprun)。
+
+</details>
 
 ## 我的社区 / My Community
 
