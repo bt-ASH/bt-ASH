@@ -22,7 +22,7 @@
 
 <summary> archlinux + Hyprland工具</summary>
 
- + [【hyprun】代替丑陋的rofi](https://github.com/bt-ASH/hyprun)。
+ + [【hyprun】Replace the ugly rofi](https://github.com/bt-ASH/hyprun)。
 
 </details>
 
