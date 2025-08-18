@@ -1,9 +1,14 @@
 ## 关于我 / About Me
 
-<table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH&include_all_commits=true&hide_border=true" width="400"></td></tr>
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bt-ASH" width="400" /></td></tr>
-</table>
+<p align="right">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=bt-ASH&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- self-host in Vercel -->
+    <img width="400" src="https://github-readme-streak-stats-bt-ASH.vercel.app?user=bt-ASH&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</p>
 
 > 你好，我是Ash
 
@@ -11,7 +16,7 @@
 - 主要项目: [ASH Library](https://github.com/bt-ASH)
 - 专注于网络工具开发和技术研究
 - Twitter@[bt_ASH](https://twitter.com/bt_ASH) 
-- Vtuber@[Bilibili](https://space.bilibili.com/9909909909909090909090)
+- Vtuber@[Bilibili](https://space.bilibili.com/390961945)
 
 > "Simplicity is the ultimate sophistication."
 
@@ -63,4 +68,4 @@
 
 欢迎交流网络技术相关问题！可以通过以下方式联系我：
 📧 Email: volcancode@proton.me
-🐦 Twitter: @bt_ash60153
+🐦 Twitter: [@bt_ash60153](https://twitter.com/bt_ASH)
