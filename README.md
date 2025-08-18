@@ -2,7 +2,7 @@
 
 <table align='right'>
 <tr><td><img width="400" height="165" 
-     src="https://github-profile-summary-cards.vercel.app/api/cards/compact-stats?username=bt-ASH&theme=transparent&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/compact-stats?username=bt-ASH&theme=transparent&v=1"
      alt="Profile Stats" /></td></tr>
 <tr><td><img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH&theme=transparent&hide_border=true&layout=compact" alt="Streak Stats" /></td></tr>
 </table>
