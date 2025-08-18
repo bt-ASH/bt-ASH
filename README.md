@@ -1,33 +1,30 @@
 ## 关于我 / About Me
 
-> 你好，我是Ash
-
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" alt="GitHub Stats" /></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" width="400"></td></tr>
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bt-ASH" width="400" /></td></tr>
 </table>
 
-- 开发者 | 技术爱好者 | 开源贡献者
-- 主要项目: [ASH Library](https://github.com/bt-ASH)
-- 专注于网络工具开发和技术研究
-- Twitter@[bt_ASH](https://twitter.com/bt_ASH60153) 
-- Vtuber@[Bilibili](https://space.bilibili.com/390961945)
+> 你好，我是Ash
+
+- Developer | Tech Enthusiast | Open Source Contributor
+- Main Project: [ASH Library](https://github.com/bt-ASH)
+- Focus Areas: Network Tools Development & Technical Research  
+- Twitter: [@bt_ASH](https://twitter.com/bt_ASH60153)
+- VTuber: [Bilibili Channel](https://space.bilibili.com/390961945)
 
 > "Simplicity is the ultimate sophistication."
 
 ## 我的项目 / My Projects
 
 <img align='right' src="https://skillicons.dev/icons?i=rust,python,c,linux,docker,git" width="400">
-<details>
 
+<details>
 <summary> archlinux + Hyprland工具</summary>
 
  + [【hyprun】Replace the ugly rofi](https://github.com/bt-ASH/hyprun).
 
 </details>
-
-## 我的社区 / My Community
-
-- [ASH Developers](https://github.com/bt-ASH)：一个致力于开发实用工具的开源社区。
 
 ## 阿巴巴的 GitHub 统计 / Ash's GitHub Stats
 
@@ -43,23 +40,22 @@
   </picture>
 </div>
 
-<!-- bt-ASH 的网络技术探索 -->
+<!-- bt-ASH's Network Technology Exploration -->
 <div align="center">
-  <h3>🌐 网络技术动态</h3>
-  <p>• 正在开发: ASH 网络工具集</p>
-  <p>• 研究重点: 高性能网络协议栈</p>
-  <p>• 技术栈: C/Python/Rust 网络编程</p>
+  <h3>🌐 Network Technology Updates</h3>
+  <p>• Current Development: ASH Network Toolkit</p>
+  <p>• Research Focus: High-performance Network Protocol Stack</p>
+  <p>• Tech Stack: C/Python/Rust Network Programming</p>
 </div>
 
-
-<!-- 网络技术相关动态 -->
+<!-- Network Technology Trends -->
 <div align="center">
-  <h3>📡 当前网络技术动态</h3>
-  <p>• 正在研究: 网络协议栈性能优化与流量分析</p>
-  <p>• 学习目标: 掌握SDN网络架构</p>
-  <p>• 合作意向: 网络自动化工具开发</p>
+  <h3>📡 Current Network Technology Trends</h3>
+  <p>• Researching: Network Protocol Stack Optimization & Traffic Analysis</p>
+  <p>• Learning Goal: Mastering SDN Architecture</p>
+  <p>• Collaboration Interest: Network Automation Tools Development</p>
 </div>
 
-欢迎交流网络技术相关问题！可以通过以下方式联系我：
+Feel free to discuss network technology topics! Contact me via:
 📧 Email: volcancode@proton.me
 🐦 Twitter: [@bt_ash60153](https://twitter.com/bt_ASH60153)
