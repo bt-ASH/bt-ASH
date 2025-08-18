@@ -1,7 +1,7 @@
 ## 关于我 / About Me
 
 <table align='right'>
-<tr><td><img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&count_private=false" alt="Profile Stats" /></td></tr>
+<tr><td><img width="400" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/compact-stats?username=bt-ASH&theme=transparent" alt="Profile Stats" /></td></tr>
 <tr><td><img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH&theme=transparent&hide_border=true&layout=compact" alt="Streak Stats" /></td></tr>
 </table>
 
