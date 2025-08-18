@@ -2,7 +2,7 @@
 
 <table align='right'>
 <tr><td><img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=bt-ASH" alt="Profile Stats" /></td></tr>
-<tr><td><img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH&theme=transparent&hide_border=true&layout=compact" alt="Streak Stats" /></td></tr>
+<tr><td><img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH" alt="Streak Stats" /></td></tr>
 </table>
 
 > 你好，我是Ash
