@@ -55,7 +55,3 @@
   <p>• Learning Goal: Mastering SDN Architecture</p>
   <p>• Collaboration Interest: Network Automation Tools Development</p>
 </div>
-
-Feel free to discuss network technology topics! Contact me via:
-📧 Email: volcancode@proton.me
-🐦 Twitter: [@bt_ash60153](https://twitter.com/bt_ASH60153)
