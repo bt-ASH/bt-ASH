@@ -1,7 +1,7 @@
 ## 关于我 / About Me
 
 <table align='right'>
-<tr><td><img width="360" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&hide_title=true&show_icons=true&theme=transparent&hide_border=true&layout=compact&line_height=20" /></td></tr>
+<tr><td><img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&hide_title=true&show_icons=true&theme=transparent&hide_border=true&layout=compact&line_height=20" /></td></tr>
 </table>
 
 > 你好，我是Ash
