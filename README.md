@@ -41,17 +41,13 @@
 </div>
 
 <!-- bt-ASH's Network Technology Exploration -->
-<div align="center">
   <h3>🌐 Network Technology Updates</h3>
   <p>• Current Development: ASH Network Toolkit</p>
   <p>• Research Focus: High-performance Network Protocol Stack</p>
   <p>• Tech Stack: C/Python/Rust Network Programming</p>
-</div>
 
 <!-- Network Technology Trends -->
-<div align="center">
   <h3>📡 Current Network Technology Trends</h3>
   <p>• Researching: Network Protocol Stack Optimization & Traffic Analysis</p>
   <p>• Learning Goal: Mastering SDN Architecture</p>
   <p>• Collaboration Interest: Network Automation Tools Development</p>
-</div>
