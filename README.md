@@ -1,8 +1,8 @@
 ## 关于我 / About Me
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" width="350"></td></tr>
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bt-ASH" width="350" /></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" width="330"></td></tr>
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bt-ASH" width="330" /></td></tr>
 </table>
 
 > 你好，我是Ash ID @ 蚺呐  / bt-ASH，一名网络技术爱好者，目前在福建炒米粉
