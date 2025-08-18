@@ -1,17 +1,16 @@
 ## 关于我 / About Me
 
-<table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" alt="GitHub Stats" /></td></tr>
-</table>
-
-
 > 你好，我是Ash
 
 - 开发者 | 技术爱好者 | 开源贡献者
 - 主要项目: [ASH Library](https://github.com/bt-ASH)
 - 专注于网络工具开发和技术研究
-- Twitter@[bt_ASH](https://twitter.com/bt_ASH) 
+- Twitter@[bt_ASH](https://twitter.com/bt_ASH60153)
 - Vtuber@[Bilibili](https://space.bilibili.com/390961945)
+
+<table align='right'>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=bt-ASH" alt="GitHub Stats" /></td></tr>
+</table>
 
 > "Simplicity is the ultimate sophistication."
 
@@ -63,4 +62,4 @@
 
 欢迎交流网络技术相关问题！可以通过以下方式联系我：
 📧 Email: volcancode@proton.me
-🐦 Twitter: [@bt_ash60153](https://twitter.com/bt_ASH)
+🐦 Twitter: [@bt_ash60153](https://twitter.com/bt_ASH60153)
