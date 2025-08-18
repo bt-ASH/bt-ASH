@@ -25,7 +25,7 @@
 
 </details>
 
-## 阿巴巴的 GitHub 统计 / Ash's GitHub Stats
+## 蚺呐-ash的 GitHub 统计 / Ash's GitHub Stats
 
 <div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:bt-ASH?theme=gelbooru" /> </div>
 
