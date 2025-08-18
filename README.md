@@ -1,8 +1,8 @@
 ## 关于我 / About Me
 
 <table align='right'>
-<tr><td><img height="135" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&hide_title=true&show_icons=true&theme=transparent&hide_border=true&layout=compact&line_height=20" /></td></tr>
-<tr><td><img height="135" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH&theme=transparent&hide_border=true&layout=compact" /></td></tr>
+<tr><td><img height="135" width="330" src="https://github-readme-stats.vercel.app/api?username=bt-ASH&hide_title=true&show_icons=true&theme=transparent&hide_border=true&layout=compact&line_height=20" /></td></tr>
+<tr><td><img height="135" width="330" src="https://github-readme-streak-stats.herokuapp.com?user=bt-ASH&theme=transparent&hide_border=true&layout=compact" /></td></tr>
 </table>
 
 > 你好，我是Ash
