@@ -20,7 +20,7 @@
 <img align='right' src="https://skillicons.dev/icons?i=rust,python,c,linux,docker,git" width="400">
 
 <details>
-<summary> archlinux + Hyprland工具</summary>
+<summary>archlinux + Hyprland工具</summary>
 
  + [【hyprun】Replace the ugly rofi](https://github.com/bt-ASH/hyprun).
 
