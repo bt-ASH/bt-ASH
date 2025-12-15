@@ -1,8 +1,6 @@
 ## 关于我 / About Me
 
-- Developer | Tech Enthusiast | Open Source Contributor  
 - Main Project: [ASH Library](https://github.com/bt-ASH)  
-- Focus Areas: Network Tools Development & Technical Research  
 - Twitter: [@bt_ASH](https://twitter.com/bt_ASH60153)  
 - VTuber: [Bilibili Channel](https://space.bilibili.com/390961945)  
 
