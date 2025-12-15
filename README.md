@@ -13,8 +13,6 @@
 
 <div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:bt-ASH?theme=gelbooru" /> </div>
 
-<!-- 网络技术活动统计 -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/bt-ASH/4a16dded8712693bedd4b14312476625/raw/577c9579ad2d25d9b387848832440113089404e2/github-snake-dark.svg" />
